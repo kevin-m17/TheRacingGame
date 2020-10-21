@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// followed along Jimmy Vegas's video
+
 public class ButtonOption : MonoBehaviour {
 
 	public void PlayGame () {
