@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-// followed along Jimmy Vegas's video
+// followed along Jimmy Vegas's video and made according modifications
 
 public class ButtonOption : MonoBehaviour {
 
